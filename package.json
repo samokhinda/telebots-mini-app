@@ -9,16 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "encoding": "^0.1.13",
     "next": "latest",
     "react": "latest",
     "react-dom": "latest",
     "telegraf": "^4.14.0"
   },
   "devDependencies": {
-    "@types/telegram-web-app": "^6.9.1",
     "@types/node": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",
+    "@types/telegram-web-app": "^6.9.1",
     "eslint": "latest",
     "eslint-config-next": "latest",
     "typescript": "latest"
